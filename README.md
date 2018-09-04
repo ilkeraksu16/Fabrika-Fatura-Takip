@@ -3,7 +3,7 @@ https://user-images.githubusercontent.com/16543698/45053094-974db980-b091-11e8-9
 
 C# Forms ile yapılmıştır.
 
-Şirketin müşterilerinin bilgilerinin tutulduğu,
-Aylık sipariş bilgilerinin tutulduğu,
-Aylık menülerin oluşturulduğu,
+Şirketin müşterilerinin bilgilerinin tutulduğu,</br>
+Aylık sipariş bilgilerinin tutulduğu,</br>
+Aylık menülerin oluşturulduğu,</br>
 Aylık menülerin ve müşterilerin faturaların exel formatta çıktısı alındığı fatura takip otomasyonu.
